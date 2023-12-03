@@ -1,4 +1,5 @@
 # resumoApiREST
+# Api REST e RESTFul
 
 No universo dinâmico da programação de aplicações, a API REST e sua contraparte, a API RESTful, emergem como pilares fundamentais para a comunicação eficiente e segura entre sistemas computacionais. A API REST, alinhada com os princípios do estilo arquitetural REST (Representational State Transfer), proporciona uma interface padronizada para a troca de informações, enquanto a API RESTful se destaca como uma implementação prática e segura desse conceito.
 Em um contexto em que a interconectividade entre sistemas é essencial, ambas desempenham papéis cruciais. Ao seguir os padrões de comunicação seguros e eficientes propostos pelo REST, essas interfaces possibilitam a integração perfeita entre diferentes aplicações. Seja automatizando o faturamento entre sistemas internos e bancários ou facilitando a comunicação entre aplicações de contabilidade e planilhas de horas, as APIs REST e RESTful fornecem os alicerces para uma colaboração inter-sistêmica fluida. Neste contexto, exploraremos as características distintivas e a importância dessas tecnologias na construção de sistemas modernos e interoperáveis.
